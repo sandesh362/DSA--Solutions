@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sandesh362/DSA--Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sandesh362/DSA--Solutions/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandesh362/DSA--Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sandesh362/DSA--Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sandesh362/DSA--Solutions/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
