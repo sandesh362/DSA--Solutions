@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sandesh362/DSA--Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sandesh362/DSA--Solutions/tree/master/0383-ransom-note) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/sandesh362/DSA--Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
